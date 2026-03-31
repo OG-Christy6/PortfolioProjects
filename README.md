@@ -1,7 +1,7 @@
 # COVID-19 Data Exploration Project
 
 ## Project Overview
-This project involves a comprehensive exploratory data analysis (EDA) of global COVID-19 datasets using **SQL (Google Cloud SQL/MySQL)**. The objective was to transform raw, semi-structured CSV data into a relational database schema to uncover trends in infection rates, mortality, and the global rollout of vaccinations. The project spans the entire data pipeline: from initial schema design and data cleaning to complex multi-table joins and the creation of analytical views for downstream visualization.
+This project involves a comprehensive exploratory data analysis (EDA) of global COVID-19 datasets (85,171 records) using **SQL (Google Cloud SQL/MySQL)**. The objective was to transform raw, semi-structured CSV data into a relational database schema to uncover trends in infection rates, mortality, and the global rollout of vaccinations. The project spans the entire data pipeline: from initial schema design and data cleaning to complex multi-table joins and the creation of analytical views for downstream visualization.
 
 ---
 
